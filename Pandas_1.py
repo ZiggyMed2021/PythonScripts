@@ -22,6 +22,7 @@ df = pd.DataFrame(
     index = [0,1,2],
     columns = ['month','avg_high', 'avg_low','record_hihg', 'record_low'
                ,'avg_precip'])
-    
+
+# Dispay DataFrame
 print(df)
     
